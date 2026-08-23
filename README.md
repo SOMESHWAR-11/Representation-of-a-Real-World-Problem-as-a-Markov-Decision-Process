@@ -350,10 +350,8 @@ for transition in P[sample_state_id][sample_action_id]:
 
 ## Output
 
-```
-<img width="920" height="484" alt="image" src="https://github.com/user-attachments/assets/f103e98a-bd09-4cd1-b4de-c41b27aae100" />
+<img width="920" height="484" alt="image" src="https://github.com/user-attachments/assets/9c4790ee-23e9-4a12-ae93-dbb1721f28b0" />
 
-```
 
 ## Result
 
